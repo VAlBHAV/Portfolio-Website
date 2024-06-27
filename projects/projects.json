@@ -1,0 +1,102 @@
+[
+  {
+    "name": "ResumeCraft",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumecraft",
+    "category": "mern",
+    "links": {
+      "view": "https://resume-craft0.vercel.app/",
+      "code": "https://github.com/VAlBHAV/ResumeCraft"
+    }
+  },
+  {
+    "name": "Pokemon PokeDex",
+    "desc": "PokeDex built using ReactJS. Gives information about pokemons. API used 'pokeapi'.",
+    "image": "pokedex",
+    "category": "mern",
+    "links": {
+      "view": "https://pokemon-pokedex-app.vercel.app/",
+      "code": "https://github.com/VAlBHAV/Pokemon-APP"
+    }
+  },
+  {
+    "name": "Crypto Tracker",
+    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
+    "image": "cryptotracker",
+    "category": "mern",
+    "links": {
+      "view": "https://crypto-tracker-zeroone.vercel.app/",
+      "code": "https://github.com/VAlBHAV/Crypto-Tracker"
+    }
+  },
+  {
+    "name": "Weather Web",
+    "desc": "This is a simple website to check the weather of desired city. API used OpenWeatherMap.",
+    "image": "weather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://valbhav.github.io/Weather-API/",
+      "code": "https://github.com/VAlBHAV/Weather-API"
+    }
+  },
+  {
+    "name": "Link List",
+    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
+    "image": "linklist",
+    "category": "basicweb",
+    "links": {
+      "view": "https://valbhav.github.io/Link-List/",
+      "code": "https://github.com/VAlBHAV/Link-List"
+    }
+  },
+  {
+    "name": "Typing Speed Test",
+    "desc": "Typing Speed Test built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "typetest",
+    "category": "basicweb",
+    "links": {
+      "view": "https://valbhav.github.io/Typing-Speed-Test/",
+      "code": "https://github.com/VAlBHAV/Typing-Speed-Test"
+    }
+  },
+  {
+    "name": "Myntra Clone Website",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "myntra",
+    "category": "basicweb",
+    "links": {
+      "view": "https://myntra-clone-wwj5.onrender.com/",
+      "code": "https://github.com/VAlBHAV/Myntra-Clone"
+    }
+  },
+  {
+    "name": "Pomodoro Web",
+    "desc": "Pomodoro react app for keeping track of time.",
+    "image": "pomodoro",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/VAlBHAV/Pomodoro-react",
+      "code": "https://github.com/VAlBHAV/Pomodoro-react"
+    }
+  },
+  {
+    "name": "News App",
+    "desc": "News App built using ReactJS and Bootstrap with diffrent categories. API used 'newsapi.org'.",
+    "image": "newsapp",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/VAlBHAV/News-App",
+      "code": "https://github.com/VAlBHAV/News-App"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+]
